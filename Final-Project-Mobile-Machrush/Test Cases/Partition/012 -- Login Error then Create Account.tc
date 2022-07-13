@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>012 -- Login Error then Create Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb996412-44e3-4bb6-87f2-7ecf8978ccfb</testCaseGuid>
+</TestCaseEntity>
