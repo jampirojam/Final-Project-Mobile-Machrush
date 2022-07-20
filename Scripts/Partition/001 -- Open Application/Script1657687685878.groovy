@@ -17,7 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\095061\\Documents\\Final-Project-Mobile-Machrush\\Application\\app-debug.apk', true)
+Mobile.startApplication('Application/app-debug.apk', true)
+
+
+// Mobile.startApplication('C:\\Users\\095061\\Documents\\Final-Project-Mobile-Machrush\\Application\\app-debug.apk', true)
 /*
 Mobile.tap(findTestObject('Object Repository/Create Account -- Login/android.widget.Button - CREATE A PROFILE'), 0)
 
